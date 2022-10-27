@@ -1,2 +1,2 @@
 # HangmanGame
-Hangman game in Python
+Hangman game in Python using Random module .
